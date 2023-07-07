@@ -17,7 +17,7 @@ I will be recording my work on my [YouTube channel](https://www.youtube.com/@Tri
 ## BOM
   
  * You can find the BOM in this link - [BOM CR10SPro Materials](BOM.md)
-   * In the STL folder you will find:
+ * In the STL folder you will find:
    * The original Voron Switchwire files that I printed [here](stl/switchwire)
    * The files that I designed myself to adapt to my build [here](stl/originals)
  
