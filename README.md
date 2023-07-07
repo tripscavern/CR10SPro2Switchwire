@@ -12,13 +12,13 @@ After almost 3 years without printing anything, I tumbled upon 2 things that wou
 
 Given that my Voron 2.4 would solve all my requirements for high temp material, I didn't want to bother re-adjusting it every time that I wanted to print PLA or TPU, so I started re-purposing my old CR-10SPro. My first idea was to just replace the motherboard and then replace the extruder set by a StealthBurner, but I ended up with this project where I aim to make my CR-10SPro become as close as possible to a Voron Switchwire. My initial idea was to build it in steps, but I ended up thinking that it would be easier to do all at once, and here is where we arrived.
 
-I will be recording my work on my [YouTube channel] {https://www.youtube.com/@TripsCavern/streams} and will keep a track on all the changes and materials that I needed in this GitHub repository.
+I will be recording my work on my [YouTube channel](https://www.youtube.com/@TripsCavern/streams) and will keep a track on all the changes and materials that I needed in this GitHub repository.
 
 ## BOM
   
- * You can find the BOM in this link - [BOM CR10SPro Materials](https://github.com/tripscavern/CR10SPro2Switchwire/tree/main/BOM.md)
- * In the STL folder you will find:
- ** The original Voron Switchwire files that I printed [here] (https://github.com/tripscavern/CR10SPro2Switchwire/tree/main/stl/switchwire)
- ** The files that I designed myself to adapt to my build [here] (https://github.com/tripscavern/CR10SPro2Switchwire/tree/main/stl/originals)
+ * You can find the BOM in this link - [BOM CR10SPro Materials](BOM.md)
+   * In the STL folder you will find:
+   * The original Voron Switchwire files that I printed [here](stl/switchwire)
+   * The files that I designed myself to adapt to my build [here](stl/originals)
  
 Note that I'm only keeping the Switchwire files here as a way to freeze in time the files that I printed, please look at their main site for updated versions of the same files if you want to print them yourself as these may be outdated.
