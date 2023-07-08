@@ -3,6 +3,7 @@
 
 ## Disclaimer
 **This software is provided without any warranty. You are solely responsible for your use of it.**
+I'm only keeping the Switchwire files here as a way to freeze in time the files that I printed, please look at their main site for updated versions of the same files if you want to print them yourself as these may be outdated.
 
 ## History and Motivations
 Back in 2017 I wanted to buy a 3D printer and after some research I ended up choosing a CR-10SPro. The main reason was because of the Auto Bed Leveling, which, at the time, was not a feature that was present in the lower end printers. I though about buying a Prusa, but they were more expensive and I wasn't sure that I could build a kit.
@@ -21,4 +22,3 @@ I will be recording my work on my [YouTube channel](https://www.youtube.com/@Tri
    * The original Voron Switchwire files that I printed [here](stl/switchwire)
    * The files that I designed myself to adapt to my build [here](stl/originals)
  
-Note that I'm only keeping the Switchwire files here as a way to freeze in time the files that I printed, please look at their main site for updated versions of the same files if you want to print them yourself as these may be outdated.
