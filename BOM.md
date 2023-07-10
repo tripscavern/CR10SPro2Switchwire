@@ -19,7 +19,7 @@
 | M3x12 BHCS | 00  | Amazon |
 | M3x35 BHCS | 02  | Amazon |
 | M3 Washer | 08  | Amazon |
-| M3 Heat Insert | 05  | Amazon |
+| M3 Heat Insert (M3x4mmx5mm) | 05  | Amazon |
 | Zip  tight | 02  | Amazon |
 | Material | 01  | Amazon |
 | Material | 01  | Amazon |
