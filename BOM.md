@@ -1,5 +1,7 @@
 # Bill of Material for CR10SPro2Switchwire project
 
+Bellow you will see the list of materials that were required for this project. 
+
 | Material  | Quantity | Supplier |
 | ------------- | ------------- | ------------- |
 | MGN12H Linear Rail - 350mm  | 03 | AliExpress |
@@ -33,7 +35,8 @@
 | Material | 01  | Amazon |
 
 
+For the Stealthburner BOM, please check the Voron Stealthburner project website. Notice that the extruder fan could be used as a replacement fan, but I opted to buy a different fan for my build. The probe and extruder would require adaptations to the reference CAD models, and as I was going to upgrade anyways, I opted to not do this process. You can find a model for a cheap Ender 3 extruder instead of the CR10SPro extruder as they are slightly different.
 
-Notice that no link provided here is an affiliated link, they are here just for documentation and in any way I'm recommending to buy exactly these parts if you are sourcing them. Check the videos for my comments in the parts that I received.
+Notice that no link provided here is an affiliated link for myself but they may be for other people. These links are provided only as reference in case someone wants to buy the exact same parts as I did. Check the videos for my comments in the parts that I received.
 
 \*A 5000mm belt should be enough for a regular build, but you may end up with no space for errors and/or they may be harder to put in place
