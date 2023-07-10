@@ -35,4 +35,5 @@
 
 
 Notice that no link provided here is an affiliated link, they are here just for documentation and in any way I'm recommending to buy exactly these parts if you are sourcing them. Check the videos for my comments in the parts that I received.
-A 5000mm belt should be enough for a regular build, but you may end up with no space for errors and/or they may be harder to put in place
+
+\*A 5000mm belt should be enough for a regular build, but you may end up with no space for errors and/or they may be harder to put in place
